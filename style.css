@@ -1,0 +1,20 @@
+body {
+    text-align : center;
+}
+
+img {
+    height : 200px;
+    width : 200px;
+    margin: 10px;
+}
+
+.spanimg {
+width : 200px;
+height : 200px;
+margin: 10px;
+}
+
+#avg_main {
+    width : 700px;
+    height : 400px;
+}
